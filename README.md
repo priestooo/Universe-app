@@ -13,7 +13,7 @@ A modern social media application inspired by Instagram and TikTok, built with N
 - **Pinned Posts**: Special pinned post functionality for featured content
 - **Share Profile**: Easy profile sharing functionality
 
-![Profile Page](./Uni1.jpg)
+![Profile Page](./uni1.jpg)
 
 ### 🚀 **Explore Universe Page**
 - **TikTok-style Feed**: Vertical scrolling video feed experience
@@ -48,7 +48,7 @@ TikTok-inspired settings interface with:
 - Content & Display options (Language, Data Saver)
 - Support & About section
 
-![Planet Settings](./uni5.jpg)
+![Planet Settings](./uni55.jpg)
 
 #### 📊 **Planet Insights**
 Instagram-style analytics dashboard featuring:
