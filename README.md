@@ -13,7 +13,7 @@ A modern social media application inspired by Instagram and TikTok, built with N
 - **Pinned Posts**: Special pinned post functionality for featured content
 - **Share Profile**: Easy profile sharing functionality
 
-![Profile Page](https://via.placeholder.com/800x600/1a1a1a/ffffff?text=Profile+Page+Screenshot)
+![Profile Page](./Uni1.jpg)
 
 ### 🚀 **Explore Universe Page**
 - **TikTok-style Feed**: Vertical scrolling video feed experience
@@ -24,7 +24,7 @@ A modern social media application inspired by Instagram and TikTok, built with N
 - **Comments System**: Full-featured commenting with emoji, camera, and voice note support
 - **Responsive Navigation**: Bottom navigation bar that hides during interactions
 
-![Explore Page](https://via.placeholder.com/800x600/000000/ffffff?text=Explore+Universe+Page+Screenshot)
+![Explore Page](./uni2.jpg)
 
 ### 💬 **Inbox & Messaging**
 - **Stories Section**: Friend stories with add story functionality
@@ -34,9 +34,9 @@ A modern social media application inspired by Instagram and TikTok, built with N
 - **Voice Messages**: Voice note recording and playback
 - **Message Status**: Read receipts and delivery status
 
-![Inbox Page](https://via.placeholder.com/800x600/f5f5f5/333333?text=Inbox+Page+Screenshot)
+![Inbox Page](./uni3.jpg)
 
-![Chat Interface](https://via.placeholder.com/800x600/ffffff/333333?text=Chat+Interface+Screenshot)
+![Chat Interface](./uni4.jpg)
 
 ### ⚙️ **Floating Menu Options**
 
@@ -48,7 +48,7 @@ TikTok-inspired settings interface with:
 - Content & Display options (Language, Data Saver)
 - Support & About section
 
-![Planet Settings](https://via.placeholder.com/400x800/ffffff/333333?text=Planet+Settings+Modal)
+![Planet Settings](./uni5.jpg)
 
 #### 📊 **Planet Insights**
 Instagram-style analytics dashboard featuring:
@@ -58,7 +58,7 @@ Instagram-style analytics dashboard featuring:
 - Audience demographics with visual charts
 - Top performing posts showcase
 
-![Planet Insights](https://via.placeholder.com/400x800/f8f9fa/333333?text=Planet+Insights+Modal)
+![Planet Insights](./uni6.jpg)
 
 #### 📝 **Drafts**
 TikTok-style drafts management with:
@@ -67,7 +67,7 @@ TikTok-style drafts management with:
 - Video and image draft previews
 - Easy draft editing and publishing
 
-![Drafts](https://via.placeholder.com/400x800/ffffff/333333?text=Drafts+Modal)
+![Drafts](./uni7.jpg)
 
 #### 💾 **Saved Posts**
 Instagram-inspired saved content with:
@@ -76,7 +76,7 @@ Instagram-inspired saved content with:
 - Easy content management
 - Search and filter capabilities
 
-![Saved Posts](https://via.placeholder.com/400x800/ffffff/333333?text=Saved+Posts+Modal)
+![Saved Posts](./uni8.jpg)
 
 #### 🔄 **Reposts**
 TikTok-style repost management featuring:
@@ -85,7 +85,7 @@ TikTok-style repost management featuring:
 - Repost statistics and engagement
 - Easy repost management
 
-![Reposts](https://via.placeholder.com/400x800/ffffff/333333?text=Reposts+Modal)
+![Reposts](./uni9.jpg)
 
 ## 🛠️ Tech Stack
 
